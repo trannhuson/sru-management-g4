@@ -1,0 +1,42 @@
+.col-1 p {
+    color: #75B1A9;
+}
+
+.col-2 p {
+    color: #D9B44A;
+}
+
+.col-3 p {
+    color: #4F6457;
+}
+
+.col-4 p {
+    color: #ACD0C0;
+}
+
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+p:first-child {
+    text-align: center;
+    font-size: 25px;
+    line-height: 10px;
+}
+
+#search-by-date {
+    margin: 5px 50px 20px 50px;
+}
+
+#search-by-date input {
+    width: 100%;
+}
+
+#error{
+    text-align: center;
+    font-size: 15px;
+    margin: 5px;
+    color: red;
+    width: 100%;
+    display: none;
+}

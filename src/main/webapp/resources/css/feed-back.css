@@ -1,0 +1,88 @@
+.jumbotron {
+    background-color: rgb(26, 116, 116);
+    color: white;
+}
+
+.jumbotron p {
+    line-height: 40%;
+}
+
+.required {
+    color: red;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+.form-group ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 5px;
+    color: white;
+    text-shadow: 2px 2px 7px grey;
+    font-size: 25px !important;
+}
+
+.form-group ul label:hover {
+    cursor: pointer;
+}
+
+ul li.active {
+    color: yellow;
+}
+
+input[type="radio"] {
+    display: none;
+}
+
+.informmation_1 {
+    padding: 25px 0px;
+}
+
+p {
+    padding: 1px 0px;
+}
+
+label {
+    padding-top: 20px;
+}
+
+ul {
+    margin-top: -20px;
+}
+
+input[type="text"] {
+    padding: 20px;
+}
+
+.act-feedback {
+    text-align: right;
+    margin-top: 30px;
+}
+
+button.btn-outline-primary {
+    padding: 7px 30px;
+    border-radius: 8px;
+    background: #6495ED;
+    color: white;
+}
+
+button.btn-outline-secondary {
+    padding: 7px 30px;
+    border-radius: 8px;
+    color: white;
+    background: #A9A9A9;
+}
+
+label.error {
+    padding: 0px 0px !important;
+    position: absolute;
+    color: red;
+    margin-top: 5px;
+    font-size: 16px;
+}
+li.nav-item {
+    margin-top: 25px;
+}

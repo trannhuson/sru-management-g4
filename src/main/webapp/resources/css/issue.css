@@ -1,0 +1,105 @@
+input#issues {
+    width: 79% !important;
+    margin-left: 12px !important;
+    margin-right: 20px;
+}
+input.issue-item {
+    margin: 0px 20px;
+}
+.header {
+    background: #eeeeee;
+    border: 1px solid #d9d9d9;
+    padding: 10px 10px 10px 10px;
+}
+form#add-issue-form, form#add-solution-form {
+    display: flex;
+    padding: 15px 0px 20px 21px;
+}
+button#btn-plus-solution {
+    margin-left: 18px;
+}
+.solutions {
+    display: none;
+    padding: 22px 20px;
+    margin-left: 13px;
+    width: 93.73%;
+    border: 1px solid #d9d9d9;
+    margin-top: -21px;
+}
+
+button.btn.btn-outline-success {
+    margin-left: 800px;
+}
+.modal-content {
+    margin-top: 65px;
+}
+.issue-detail {
+    margin: 20px 32px 20px -7px;
+    display: flex;
+}
+input#name {
+    padding: 0px 10px 0px 20px;
+    width: 816px !important;
+    margin-left: -7px;
+    margin-right: 20px;
+    font-weight: 600;
+}
+input.issue-item {
+    margin: 0px 20px;
+    padding: 8px 20px;
+    font-weight: 600;
+}
+h2.modal-title {
+    margin-left: 35px;
+}
+.area-txt {
+    display: none;
+}
+
+.btn-manage-update {
+    display: none;
+    margin-left: 751px;
+    position: absolute;
+    margin-top: 33px;
+}
+button.btn.btn-outline-primary.btn-save {
+    margin-right: 3px;
+}
+
+#area-txt, .area-txt {
+    margin-top: 33px;
+    margin-left: -58px;
+    margin-bottom: 20px;
+}
+input#nameSolution, input#solutionName {
+    width: 725px;
+    margin-left: -20px;
+    padding: 20px;
+}
+#solution-name {
+    cursor: pointer;
+}
+.solution-manage {
+    cursor: pointer;
+    display: flex;
+}
+div.solution-total {
+    width: 85% !important;
+}
+.btn-plus-solution {
+    width: 15% !important;
+}
+label.error {
+    position: absolute;
+    margin-top: 42px;
+    margin-left: 11px;
+    color: red;
+}
+lable.date-solution {
+    position: absolute;
+}
+a.btn.btn-outline-danger.btn-delete-issue {
+    margin-top: -60px;
+    margin-left: 825px;
+    position: absolute;
+}

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fa.training.srumanagementg4.service.impl.IssueServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.44 s - in fa.training.srumanagementg4.service.impl.IssueServiceImplTest

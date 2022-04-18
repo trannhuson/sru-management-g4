@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "srum.app.jwtExpirationMs",
+  "type": "java.lang.String",
+  "description": "A description for 'srum.app.jwtExpirationMs'"
+}]}

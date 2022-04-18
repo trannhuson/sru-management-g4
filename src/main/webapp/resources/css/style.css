@@ -1,0 +1,123 @@
+.checked {
+    color: orange;
+  }
+.list-infor img {
+    height: 180px;
+    width: 180px;
+    border-radius: 80px;
+    margin-top: 25px;
+}
+.card{
+background-color: #eeeeee;
+}
+.list-infor{
+    background-color: #ffffff;
+}
+.card-body .page-size{
+    float: right;
+}
+
+.card-body .list{
+    clear: both;
+}
+.user-text, .user-result{
+    background-color:#d9edf6;
+}
+.user-text img{
+    height: 200px;
+    width: 200px;
+    border-radius:100px;
+}
+.user-text p{
+   font-size: 18px;
+   color: blue;
+   font-weight: bold;
+}
+.user-result i{
+    font-size: 40px;
+    color: yellow;
+    font-weight: bold;
+    padding-top: 40px;
+}
+.user-result h1{
+    color:red;
+    font-weight: bold;
+
+}
+.user-result .final-grade{
+    color:white;
+    font-weight: bold;
+    width: 300px;
+    margin: auto ;
+    border: 1px solid white;
+    margin-bottom: 10px;
+    background-color: #eaa43f;
+    border-radius:10px
+}
+.user-result .attendance{
+    color:white;
+    width: 300px;
+    margin: auto ;
+    font-weight: bold;
+    border: 1px solid white;
+    background-color: #1aa518;
+    border-radius:10px;
+}
+.content nav a{
+    color:black;
+    font-weight: bold;
+}
+.content-comment{
+    margin: 20px 20px;
+    background-color: #ffffff;
+}
+.content-comment img{
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+}
+.content-comment .author{
+    color: rgb(16, 183, 224);
+    font-size: 20px;
+    font-weight: bold;
+}
+.content-comment .comment-date{
+    float: right;
+    color: rgb(16, 183, 224);
+}
+.content-comment p{
+    clear: both;
+}
+.table th{
+    text-align: center;
+}
+.table span{
+    color:white;
+    border: 1px solid white;
+    background-color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    border-radius: 10px;
+}
+#photo{
+    width: 150px;
+    height: 150px;
+    border-radius: 70px;
+    background-image: url(../img/default-avatar.png);
+    background-repeat: no-repeat;
+}
+.error{
+    color: red;
+}
+#form-search{
+    display: flex;
+    margin-left: 550px;
+}
+#form-search input[type="submit"]{
+    width: 85px;
+    height: 38px
+}
+#editMistake label, #deleteMistake p{
+    float: left;
+}
